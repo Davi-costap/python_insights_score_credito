@@ -23,3 +23,5 @@ Este projeto utiliza técnicas de aprendizado de máquina para prever o score de
 ### Conclusão
 
 O projeto demonstrou como técnicas de aprendizado de máquina podem ser aplicadas para prever scores de crédito com base em dados históricos de clientes. Através da preparação adequada dos dados e da avaliação de diferentes modelos, foi possível identificar o modelo de Random Forest como o mais eficaz para este caso. Este projeto serve como um exemplo prático de como utilizar IA para resolver problemas reais de negócios, oferecendo uma base sólida para futuras melhorias e expansões.
+
+
